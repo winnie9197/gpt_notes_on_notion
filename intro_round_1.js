@@ -47,3 +47,4 @@ const apiRequest = openai.createCompletion({
 
 // apiRequest();
 
+// bryan test
